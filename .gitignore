@@ -1,0 +1,10 @@
+# this is where private key so it needs to be ignored
+**/.aptos
+
+# other files
+**/build
+**/.idea
+**/.vscode
+**/.venv
+**/.env
+**/__pycache__
